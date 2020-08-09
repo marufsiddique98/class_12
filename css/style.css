@@ -1,0 +1,29 @@
+.cont6{
+    width: 100%;
+    height: 800px;
+    background-color: #343434;
+}
+.two{
+    height: 500px !important;
+    width: 800px !important;
+    background-color: #181818 !important;
+}
+label{
+    color: white;
+}
+.sub{
+    background-color: #FEB960 !important;
+    color: black !important;
+    border-color: #D1934A !important;
+}
+.sub:focus{
+    background-color: #FEB960 !important;
+}
+.foot{
+    color: #D1934A;
+    font-size: 80px;
+    padding: 15px;
+}
+.lst{
+    color: white;
+}
